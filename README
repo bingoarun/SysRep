@@ -1,0 +1,20 @@
+SYSREP 1.0
+===========
+
+INSTALLATION PREREQUISTIES:
+---------------------------
+Install Python 2.7
+Install pip or easy_install for Python
+Using pip install the following packages (i.e pip install <package>)
+    - paramiko
+    - wmi
+    - xlsxwriter
+    - xlrd
+    - enum
+Install pyCrypto
+    http://www.voidspace.org.uk/python/modules.shtml#pycrypto
+Install pyWin32
+    http://sourceforge.net/projects/pywin32/files/pywin32/
+Install mingw32
+    http://sourceforge.net/projects/mingw/files/latest/download?source=files
+
